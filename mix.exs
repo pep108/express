@@ -29,7 +29,7 @@ defmodule Express.Mixfile do
 
   defp deps do
     [
-      {:poison, "~> 3.1"},
+      {:poison, "~> 5.0"},
       {:chatterbox, "~> 0.5"},
       {:poolboy, "~> 1.5"},
       {:httpoison, "~> 0.12"},
